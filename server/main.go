@@ -183,7 +183,7 @@ func main() {
 		// Processing the Nodes
 
 		// Creating weight matrix for input nodes
-		weightMatrix := [10][10]KumpulID{}
+		weightMatrix := [50][50]KumpulID{}
 
 		// Inputing inside the weight matrix calculated distance between nodes.
 		for i, objects_i := range nodes {
