@@ -13,7 +13,7 @@ Pertama, setiap titik membentuk pasangan titik yang unik. Kompleksitas sebesar (
 Prerequisites: Docker
 1. Clone repository ini
 2. Navigasi ke folder server
-3. Jalankan program dengan mengetik pada command line `docker compose up -d terlebih dahulu, apabila tidak bisa jalankan pada command prompt `go run main.go process.go`
+3. Jalankan program dengan mengetik pada command line `docker compose up -d` terlebih dahulu, apabila tidak bisa jalankan pada command prompt `go run main.go process.go`
 4. Baru jalankan program pada link frontend
 
 # Referensi Belajar
